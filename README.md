@@ -18,3 +18,4 @@ My task is my legacy and I learn for life. Today, I'm proud to share stories as 
 1. [Google Maps API 3](https://gatewan.github.io/google-maps-api3.html)
 1. [Google Maps JavaScript API Cookbook](https://gatewan.github.io/google-maps-js-api.html)
 1. [Distributed Power Generation & Integration](https://gatewan.github.io/distributed-pwr-gen-integration.html)
+1. [Distributed Systems Principles & Paradigms](https://gatewan.github.io/distributed-sys-principle-paradigm.html)
