@@ -9,4 +9,8 @@ My task is my legacy and I learn for life. Today, I'm proud to share stories as 
 1. [An introduction to the Unified ModelingLanguage](https://gatewan.github.io/introduction-the-uml.html)
 1. [Android App Development v2.1](https://gatewan.github.io/android-app-development-v2.1.html)
 1. [Analisa & Perancangan Sistem Informasi](https://gatewan.github.io/analisa-perancangan-sistem-informasi.html)
+1. [Android Developer Fundamentals Concept Reference](https://gatewan.github.io/android-developer-concept-reference.html)
+1. [Android Developer Fundamentals Practical Workbook](https://gatewan.github.io/android-developer-practical-workbook.html)
+1. [Android Programming with Android Studio](https://gatewan.github.io/android-studio-programming.html)
+1. [Learn Android Studio](https://gatewan.github.io/learn-android-studio.html)
 
