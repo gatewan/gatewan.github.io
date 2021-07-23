@@ -14,5 +14,7 @@ My task is my legacy and I learn for life. Today, I'm proud to share stories as 
 1. [Android Programming with Android Studio](https://gatewan.github.io/android-studio-programming.html)
 1. [Learn Android Studio](https://gatewan.github.io/learn-android-studio.html)
 1. [Aplikasi Masjid Menggunakan phpMyAdmin & NetBeans IDE](https://gatewan.github.io/app-masjid-phpmyadmin-netbeans.html), [Demo1](https://youtu.be/uqDbFSLCAyc), [Demo2](https://youtu.be/-CAz86s26iU), [Demo3](https://youtu.be/gmLacYE9GQI)
-
-
+1. [Google Apps Script](https://gatewan.github.io/google-apps-script.html)
+1. [Google Maps API 3](https://gatewan.github.io/google-maps-api3.html)
+1. [Google Maps JavaScript API Cookbook](https://gatewan.github.io/google-maps-js-api.html)
+1. [Distributed Power Generation & Integration](https://gatewan.github.io/distributed-pwr-gen-integration.html)
