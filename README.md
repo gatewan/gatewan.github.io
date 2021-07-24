@@ -34,3 +34,4 @@ My task is my legacy and I learn for life. Today, I'm proud to share stories as 
 1. [Maple User Manual](https://gatewan.github.io/maple-user-manual.html)
 1. [Maple Programming Guide](https://gatewan.github.io/maple-programming-guide.html)
 1. [Maple Aljabar Linear](https://gatewan.github.io/maple-aljabar-linear.html)
+1. [Mobile UI Design Patterns](https://gatewan.github.io/mobile-ui-design-patterns.html)
