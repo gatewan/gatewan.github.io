@@ -27,3 +27,4 @@ My task is my legacy and I learn for life. Today, I'm proud to share stories as 
 1. [Riset Operasi - 5 Relasi & Fungsi](https://gatewan.github.io/risest-operasi-5-relasi-dan-fungsi.html)
 1. [Google Sheets Ultimate](https://gatewan.github.io/google-sheets-ultimate.html)
 1. [Google Visualizatin API Essentials](https://gatewan.github.io/google-visualization-api-essentials.html)
+1. [Java Object First & BlueJ](https://gatewan.github.io/java-object-bluej.html)
