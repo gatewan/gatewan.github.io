@@ -30,3 +30,7 @@ My task is my legacy and I learn for life. Today, I'm proud to share stories as 
 1. [Java Object First & BlueJ](https://gatewan.github.io/java-object-bluej.html)
 1. [Simulasi Jaringan Menggunakan Packet Tracer](https://gatewan.github.io/simulasi-jaringan-packet-tracer.html)
 1. [CRUD Web Service SOAP WSDL Menggunakan Nusoap](https://gatewan.github.io/curd-web-service-soap-wsdl.html)
+1. [Smart Peripheral Controller Stepper Motor](https://gatewan.github.io/spc-stepper-motor.html)
+1. [Maple User Manual](https://gatewan.github.io/maple-user-manual.html)
+1. [Maple Programming Guide](https://gatewan.github.io/maple-programming-guide.html)
+1. [Maple Aljabar Linear](https://gatewan.github.io/maple-aljabar-linear.html)
