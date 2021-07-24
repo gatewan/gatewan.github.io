@@ -20,3 +20,8 @@ My task is my legacy and I learn for life. Today, I'm proud to share stories as 
 1. [Distributed Power Generation & Integration](https://gatewan.github.io/distributed-pwr-gen-integration.html)
 1. [Distributed Systems Principles & Paradigms](https://gatewan.github.io/distributed-sys-principle-paradigm.html)
 1. [Distributed Systems Concepts & Design](https://gatewan.github.io/distributed-systems-concepts-design.html)
+1. [Riset Operasi - 1 Graph](https://gatewan.github.io/risest-operasi-1-graph.html)
+1. [Riset Operasi - 2 Himpunan](https://gatewan.github.io/risest-operasi-2-himpunan.html)
+1. [Riset Operasi - 3 Kombinatorial](https://gatewan.github.io/risest-operasi-3-kombinatorial.html)
+1. [Riset Operasi - 4 Pohon OK](https://gatewan.github.io/risest-operasi-4-pohon-ok.html)
+1. [Riset Operasi - 5 Relasi & Fungsi](https://gatewan.github.io/risest-operasi-5-relasi-dan-fungsi.html)
