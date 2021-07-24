@@ -25,3 +25,4 @@ My task is my legacy and I learn for life. Today, I'm proud to share stories as 
 1. [Riset Operasi - 3 Kombinatorial](https://gatewan.github.io/risest-operasi-3-kombinatorial.html)
 1. [Riset Operasi - 4 Pohon OK](https://gatewan.github.io/risest-operasi-4-pohon-ok.html)
 1. [Riset Operasi - 5 Relasi & Fungsi](https://gatewan.github.io/risest-operasi-5-relasi-dan-fungsi.html)
+1. [Google Sheets Ultimate](https://gatewan.github.io/google-sheets-ultimate.html)
