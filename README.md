@@ -28,3 +28,5 @@ My task is my legacy and I learn for life. Today, I'm proud to share stories as 
 1. [Google Sheets Ultimate](https://gatewan.github.io/google-sheets-ultimate.html)
 1. [Google Visualizatin API Essentials](https://gatewan.github.io/google-visualization-api-essentials.html)
 1. [Java Object First & BlueJ](https://gatewan.github.io/java-object-bluej.html)
+1. [Simulasi Jaringan Menggunakan Packet Tracer](https://gatewan.github.io/simulasi-jaringan-packet-tracer.html)
+1. [CRUD Web Service SOAP WSDL Menggunakan Nusoap](https://gatewan.github.io/curd-web-service-soap-wsdl.html)
