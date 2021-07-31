@@ -45,5 +45,6 @@ My task is my legacy and I learn for life. Today, I'm proud to share stories as 
 1. [Data Center and Enterprise Network Security](https://gatewan.github.io/network-security-8-data-center-and-enterprise.html)
 1. [Device Security and Router Mechanisms](https://gatewan.github.io/network-security-9-device-security-and-router-mechanisms.html)
 1. [Optimal Design of Distributed Control and Embedded Systems](https://gatewan.github.io/optimal-design-of-distributed-control-and-embedded-systems.html)
+1. [Pemrograman Socket dengan Java](https://gatewan.github.io/pemrograman-socket-dengan-java.html)
 
 
