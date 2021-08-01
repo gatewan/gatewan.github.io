@@ -70,3 +70,4 @@ My task is my legacy and I learn for life. Today, I'm proud to share stories as 
 1. [Marta - Distributed Multimedia](https://gatewan.github.io/prof-marta-17-distributed-multimedia.html)
 1. [Proposal Kerja Praktek](https://gatewan.github.io/proposal-web-profil-tubing-gending-magelang.html)
 1. [Proposal Skripsi](https://gatewan.github.io/proposal-sig-google-fusion-tables-.html)
+1. [Restful Web Service Cookbook](https://gatewan.github.io/restful-web-services-cookbook.html)
