@@ -68,3 +68,5 @@ My task is my legacy and I learn for life. Today, I'm proud to share stories as 
 1. [Marta - Cryptographic Algorithms](https://gatewan.github.io/prof-marta-15-cryptographic-algorithms.html)
 1. [Marta - Fault Tolerance & Availability](https://gatewan.github.io/prof-marta-16-fault-tolerance-and-availability.html)
 1. [Marta - Distributed Multimedia](https://gatewan.github.io/prof-marta-17-distributed-multimedia.html)
+1. [Proposal Kerja Praktek](https://gatewan.github.io/proposal-web-profil-tubing-gending-magelang.html)
+1. [Proposal Skripsi](https://gatewan.github.io/proposal-sig-google-fusion-tables-.html)
