@@ -71,3 +71,7 @@ My task is my legacy and I learn for life. Today, I'm proud to share stories as 
 1. [Proposal Kerja Praktek](https://gatewan.github.io/proposal-web-profil-tubing-gending-magelang.html)
 1. [Proposal Skripsi](https://gatewan.github.io/proposal-sig-google-fusion-tables-.html)
 1. [Restful Web Service Cookbook](https://gatewan.github.io/restful-web-services-cookbook.html)
+1. [Riset Standar Arsitektur Platform API Management](https://gatewan.github.io/riset-standar-arsitektur-platform-api-management.html)
+1. [Pewarisan, Polimorfisme, dan Interface](https://gatewan.github.io/pewarisan-polimorfisme-dan-interface.html)
+1. [Modul PBO by Eding Saprudin](https://gatewan.github.io/modul-pbo-by-eding.html)
+1. [Modul OOP Pilar by Sanuri](https://gatewan.github.io/oop-pilar-by-sanuri.html)
