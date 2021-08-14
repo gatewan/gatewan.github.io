@@ -75,3 +75,4 @@ My task is my legacy and I learn for life. Today, I'm proud to share stories as 
 1. [Pewarisan, Polimorfisme, dan Interface](https://gatewan.github.io/pewarisan-polimorfisme-dan-interface.html)
 1. [Modul PBO by Eding Saprudin](https://gatewan.github.io/modul-pbo-by-eding.html)
 1. [Modul OOP Pilar by Sanuri](https://gatewan.github.io/oop-pilar-by-sanuri.html)
+1. [3DS Max Tutoral Animation](https://gatewan.github.io/3dsmax-2010-animation.html)
