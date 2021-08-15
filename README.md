@@ -77,3 +77,4 @@ My task is my legacy and I learn for life. Today, I'm proud to share stories as 
 1. [Modul OOP Pilar by Sanuri](https://gatewan.github.io/oop-pilar-by-sanuri.html)
 1. [3DS Max Tutoral Animation](https://gatewan.github.io/3dsmax-2010-animation.html)
 1. [100 Great Business Ideas](https://gatewan.github.io/3dsmax-2010-animation.html)
+1. [Contoh Proposal UMKM Bukak Sitik Joss](https://gatewan.github.io/proposal-umkm-bukak-sitik-joss.html)
