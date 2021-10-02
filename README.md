@@ -81,3 +81,4 @@ My task is my legacy and I learn for life. Today, I'm proud to share stories as 
 1. [100 TOEIC Preparation Tests](https://gatewan.github.io/100-toeic-preparation-tests.html)
 1. [240 Vocabular y WordsKids Need to Know](https://gatewan.github.io/397-english-grammar-tests.html)
 1. [397 English Grammar Tests](https://gatewan.github.io/240-vocabular-y-words-kids-need-to-know.html)
+1. [Advanced Methods of Structural Analysis](https://gatewan.github.io/advance-method-of-structural-analysis-book.html)
