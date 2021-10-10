@@ -125,3 +125,4 @@ My task is my legacy and I learn for life. Today, I'm proud to share stories as 
 1. [Short History of the United States Part 7](https://gatewan.github.io/apush-book-remini-short-history-301-350.html)
 1. [Short History of the United States Part 8](https://gatewan.github.io/apush-book-remini-short-history-351-383.html)
 1. [A Brief History of the World](https://gatewan.github.io/a-brief-history-of-the-world.html)
+1. [A Concise History Of the Middle East](https://gatewan.github.io/)
