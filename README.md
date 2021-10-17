@@ -137,4 +137,5 @@ My task is my legacy and I learn for life. Today, I'm proud to share stories as 
 1. [Microsoft Excel Bible Tricks 4](https://gatewan.github.io/microsoft-excel-bible-551-600.html)
 1. [Nahfusorof Arab](https://gatewan.github.io/nahwusorof-arab.html)
 1. [Troubleshooting and Repair Advice](https://gatewan.github.io/troubleshooting-and-repair-advice.html)
-1. [The Power of Bully](https://gatewan.github.io/screenplay-the-power-of-bully.html)
+1. [The Power of Bully Scirpt](https://gatewan.github.io/screenplay-the-power-of-bully.html)
+1. [The Power of Bully Storyboard](https://gatewan.github.io/story-board-the-power-of-bully.html)
