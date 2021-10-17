@@ -132,6 +132,7 @@ My task is my legacy and I learn for life. Today, I'm proud to share stories as 
 1. [Konfigurasi Mikroprosesor Z80](https://gatewan.github.io/modul-teknik-mikroprosessor-z80.html)
 1. [Microsoft Excel Bible Tricks 0](https://gatewan.github.io/microsoft-excel-bible-tricks.html)
 1. [Microsoft Excel Bible Tricks 1](https://gatewan.github.io/microsoft-excel-bible-201-250.html)
+1. [Microsoft Excel Bible Tricks 2](https://gatewan.github.io/microsoft-excel-bible-751-800.html)
 1. [Nahfusorof Arab](https://gatewan.github.io/nahwusorof-arab.html)
 1. [Troubleshooting and Repair Advice](https://gatewan.github.io/troubleshooting-and-repair-advice.html)
 1. [The Power of Bully](https://gatewan.github.io/screenplay-the-power-of-bully.html)
