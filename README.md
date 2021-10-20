@@ -150,3 +150,4 @@ My task is my legacy and I learn for life. Today, I'm proud to share stories as 
 1. [The Power of Bully Scirpt](https://gatewan.github.io/screenplay-the-power-of-bully.html)
 1. [The Power of Bully Storyboard](https://gatewan.github.io/story-board-the-power-of-bully.html)
 1. [Modul Praktikum Sistem Basis Data](https://gatewan.github.io/modul-praktikum-sistem-basis-data-mysql.html)
+1. [English Pre Intermediate](https://gatewan.github.io/latihan-bahasa-inggris-pre-intermediate.html)
