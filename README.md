@@ -158,3 +158,4 @@ My task is my legacy and I learn for life. Today, I'm proud to share stories as 
 1. [Open Source Pengenalan Linux](https://gatewan.github.io/open-source-campus-pengenalan-linux.html)
 1. [Modul Queue](https://gatewan.github.io/modul-queue.html)
 1. [SIG Kabupaten Bangkalan](https://gatewan.github.io/tugas-1-sig-informasi-and-data-kabupaten.html)
+1. [Modul Linked List](https://gatewan.github.io/modul-linked-list.html)
