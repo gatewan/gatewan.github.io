@@ -164,3 +164,4 @@ My task is my legacy and I learn for life. Today, I'm proud to share stories as 
 1. [Administrasi Jaringan Linux](https://gatewan.github.io/open-source-campus-administrasi-jaringan-linux.html)
 1. [Mengenali Kerusakan Komponen Elektronika](https://gatewan.github.io/mengenali-kerusakan-komponen-elektronika.html)
 1. [Modul Praktikum Sistem Operasi](https://gatewan.github.io/modul-praktikum-sistem-operasi.html)
+1. [Makalah Struktur Data C++](https://gatewan.github.io/makalah-program-c-single-linked-list-berat-badan.html)
