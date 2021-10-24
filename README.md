@@ -161,5 +161,6 @@ My task is my legacy and I learn for life. Today, I'm proud to share stories as 
 1. [Modul Linked List](https://gatewan.github.io/modul-linked-list.html)
 1. [Analisis Korelasi Koevisien](https://gatewan.github.io/analisis-korelasi-koevisien.html)
 1. [Administrasi Sistem Linux](https://gatewan.github.io/open-source-campus-administrasi-sistem-linux.html)
+1. [Administrasi Jaringan Linux](https://gatewan.github.io/open-source-campus-administrasi-jaringan-linux.html)
 1. [Mengenali Kerusakan Komponen Elektronika](https://gatewan.github.io/mengenali-kerusakan-komponen-elektronika.html)
 1. [Modul Praktikum Sistem Operasi](https://gatewan.github.io/modul-praktikum-sistem-operasi.html)
