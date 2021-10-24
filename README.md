@@ -173,3 +173,4 @@ My task is my legacy and I learn for life. Today, I'm proud to share stories as 
 1. [OOP Tipe Data dan Operator](https://gatewan.github.io/oop-tipe-data-dan-operator.html)
 1. [SIG Penyebaran Hewan Ternak](https://gatewan.github.io/sig-penyebaran-ternak.html)
 1. [Modul Praktikum Statistik](https://gatewan.github.io/modul-praktikum-statistik.html)
+1. [Pengenalan SPSS Tabulasi Data](https://gatewan.github.io/pengenalan-spss-dan-tabulasi-data.html)
