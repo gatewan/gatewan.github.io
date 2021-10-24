@@ -168,3 +168,4 @@ My task is my legacy and I learn for life. Today, I'm proud to share stories as 
 1. [Modul Linked List C++](https://gatewan.github.io/modul-linked-list-dan-ilustrasi.html)
 1. [DHCP Starvation Attacks](https://gatewan.github.io/dhcp-starvation-attacks.html)
 1. [The Starfire Iterconnect](https://gatewan.github.io/the-starfire-interconnect.html)
+1. [Belajar Strategi Sepakbola](https://gatewan.github.io/belajar-strategi-sepakbola.html)
