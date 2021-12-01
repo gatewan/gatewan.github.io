@@ -177,3 +177,4 @@ My task is my legacy and I learn for life. Today, I'm proud to share stories as 
 1. [Pengenalan Linux](https://gatewan.github.io/pengenalan-linux-piksi.html)
 1. [Fundamental PHP & MySQL](https://gatewan.github.io/fundamental-php-mysql.html)
 1. [Bahan Ajar Bahasa Indonesia](https://gatewan.github.io/bahan-ajar-bahasa-indonesia.html)
+1. [Mengenal Angka Indek](https://gatewan.github.io/angka-indeks.html)
