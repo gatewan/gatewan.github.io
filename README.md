@@ -1,5 +1,5 @@
 # My Academic Paper
-My task is my legacy and I learn for life. Today, I'm proud to share stories as alumni who is making my mark for the greater good.
+My task is my legacy. I'm proud to share stories as alumni who is making my mark for the greater good.
 
 1. [Analisis Malware](https://gatewan.github.io/analisis-malware.html)
 1. [Aljabar Linear Modul 1](https://gatewan.github.io/aljabar-linear-modul-1.html)
@@ -180,3 +180,4 @@ My task is my legacy and I learn for life. Today, I'm proud to share stories as 
 1. [Bahan Ajar Bahasa Indonesia](https://gatewan.github.io/bahan-ajar-bahasa-indonesia.html)
 1. [Mengenal Angka Indek](https://gatewan.github.io/angka-indeks.html)
 1. [Data Structures with Java](https://gatewan.github.io/data-structures-with-java.html)
+1. [Sistem Operasi Bahan Kuliah IKI-20230](https://gatewan.github.io/sistem-operasi-bahan-kuliah-iki-20230.html)
