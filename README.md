@@ -181,3 +181,4 @@ My task is my legacy. I'm proud to share stories as alumni who is making my mark
 1. [Mengenal Angka Indek](https://gatewan.github.io/angka-indeks.html)
 1. [Data Structures with Java](https://gatewan.github.io/data-structures-with-java.html)
 1. [Sistem Operasi Bahan Kuliah IKI-20230](https://gatewan.github.io/sistem-operasi-bahan-kuliah-iki-20230.html)
+1. [How to Avoid Common Errors in English](https://gatewan.github.io/how-to-avoid-common-errors-in-english.html)
