@@ -183,3 +183,4 @@ My task is my legacy. I'm proud to share stories as alumni who is making my mark
 1. [Sistem Operasi Bahan Kuliah IKI-20230](https://gatewan.github.io/sistem-operasi-bahan-kuliah-iki-20230.html)
 1. [How to Avoid Common Errors in English](https://gatewan.github.io/how-to-avoid-common-errors-in-english.html)
 1. [Konsep Dasar Survey Pemetaan](https://gatewan.github.io/konsep-dasar-pemetaan.html)
+1. [Tech Yourself Electricity and Electronics](https://gatewan.github.io/teach-yourself-electricity-and-electronics.html)
