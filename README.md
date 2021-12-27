@@ -184,3 +184,4 @@ My task is my legacy. I'm proud to share stories as alumni who is making my mark
 1. [How to Avoid Common Errors in English](https://gatewan.github.io/how-to-avoid-common-errors-in-english.html)
 1. [Konsep Dasar Survey Pemetaan](https://gatewan.github.io/konsep-dasar-pemetaan.html)
 1. [Tech Yourself Electricity and Electronics](https://gatewan.github.io/teach-yourself-electricity-and-electronics.html)
+1. [Belajar Mengamati Gejala Kerusakan Tv](https://gatewan.github.io/belajar-mengamati-gejala-kerusakan-tv.html)
