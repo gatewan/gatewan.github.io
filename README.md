@@ -186,3 +186,4 @@ My task is my legacy. I'm proud to share stories as alumni who is making my mark
 1. [Tech Yourself Electricity and Electronics](https://gatewan.github.io/teach-yourself-electricity-and-electronics.html)
 1. [Belajar Mengamati Gejala Kerusakan Tv](https://gatewan.github.io/belajar-mengamati-gejala-kerusakan-tv.html)
 1. [Kamus Besar Bahasa Indonesia](https://gatewan.github.io/kamus-besar-bahasa-indonesia.html)
+1. [English Senior High School Grade 10](https://gatewan.github.io/english-senior-high-school-grade-10.html)
